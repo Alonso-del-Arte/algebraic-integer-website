@@ -1,0 +1,1 @@
+This project will probably not be open to Hacktoberfest.
